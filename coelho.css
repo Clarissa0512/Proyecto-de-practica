@@ -12,7 +12,9 @@ img {
 	display: inline;
 }
 		
-i, b, em {
+i, 
+b, 
+em {
 	color: rgb(100, 100, 90);
 	text-align: center;
 	display: block;
