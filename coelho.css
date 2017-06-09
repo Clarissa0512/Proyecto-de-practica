@@ -40,7 +40,7 @@ a:visited {
 		
 a:active {
 	color: green;
-		text-decoration:none;
+	text-decoration: none;
 }
 
 p {
@@ -50,7 +50,7 @@ p {
 div {
 	border: 3px double black;
 	color: grey;
-	width:940px;
+	width: 940px;
 	margin-left: 185px;
 }
 		
@@ -64,6 +64,6 @@ footer {
 	background-color: grey;
 	font-size: 150%;
 	padding: 7px 0px 0px 20px;
-	width:930px;
+	width: 930px;
 	margin-left: 185px;
 }
