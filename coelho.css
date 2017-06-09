@@ -1,51 +1,67 @@
-body{
+body {
 	font-family: adidas;
-	color: rgb(100, 100, 90);}
-li{
+	color: rgb(100, 100, 90);
+}
+
+li {
 	display: inline;
-	margin-right: 90px;}
+	margin-right: 90px;
+}
 		
-img{
-	display: inline;}
+img {
+	display: inline;
+}
 		
-i, b, em{
+i, b, em {
 	color: rgb(100, 100, 90);
 	text-align: center;
-	display: block;}
-i{
-	font-size: 20px;}
+	display: block;
+}
+
+i {
+	font-size: 20px;
+}
 		
-a:link{
+a:link {
 	color: inherit;
-	text-decoration: none;}
+	text-decoration: none;
+}
 		
-a:hover{
+a:hover {
 	color: fuchsia;
-	text-decoration: none;}
+	text-decoration: none;
+}
 		
-a:visited{
-	color: white;}
+a:visited {
+	color: white;
+}
 		
-a:active{
+a:active {
 	color: green;
-		text-decoration:none;}
-p{
-	font-size: 130%;}
+		text-decoration:none;
+}
+
+p {
+	font-size: 130%;
+}
 		
-div{
+div {
 	border: 3px double black;
 	color: grey;
 	width:940px;
-	margin-left: 185px;}
+	margin-left: 185px;
+}
 		
-figure{
+figure {
 	padding-left: 150px;
-	padding-right: 90px;}
+	padding-right: 90px;
+}
 		
-footer{
+footer {
 	color: white;
 	background-color: grey;
 	font-size: 150%;
 	padding: 7px 0px 0px 20px;
 	width:930px;
-	margin-left: 185px;}
+	margin-left: 185px;
+}
